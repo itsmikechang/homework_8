@@ -114,12 +114,12 @@ function newMember() {
                 })
                 break;
             default:
-                writeToFile("output/team.html", render(teamStore))
+                writeMeBabyOneMoreTime("output/team.html", render(teamStore))
         };
     });
 };
 
-function writeToFile(fileName, data) {
+function writeMeBabyOneMoreTime(fileName, data) {
     console.log("Say hi to your new team!")
     fs.writeFile(fileName, data, function (err, response) {
         process.exit()
