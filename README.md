@@ -6,6 +6,9 @@ This lil' hambone makes whips up a mean html that shows your entire team, their 
 ![html](https://user-images.githubusercontent.com/66030740/91079267-b46e5080-e5f8-11ea-918c-efde122529b6.png)
  
 ![cli](https://user-images.githubusercontent.com/66030740/91079275-b6381400-e5f8-11ea-9c70-eaa7535b7cc7.png)
+
+![app in action](https://user-images.githubusercontent.com/66030740/91080751-f9938200-e5fa-11ea-947c-5cf1a3b98b69.gif)
+ 
  
 ## This App Displays The Following Information:
 
@@ -48,12 +51,3 @@ This lil' hambone makes whips up a mean html that shows your entire team, their 
  * Bootstrap
  * Javascript
  * Node.js
- 
- ## Screenshots & Gif:
- 
- ![html](https://user-images.githubusercontent.com/66030740/91079267-b46e5080-e5f8-11ea-918c-efde122529b6.png)
- 
- ![cli](https://user-images.githubusercontent.com/66030740/91079275-b6381400-e5f8-11ea-9c70-eaa7535b7cc7.png)
- 
-![app in action](https://user-images.githubusercontent.com/66030740/91080751-f9938200-e5fa-11ea-947c-5cf1a3b98b69.gif)
- 
